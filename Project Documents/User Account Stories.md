@@ -18,5 +18,5 @@
 # Samuel’s UAS:
 1.	As a customer who is wary of online shopping, I want to be able to sort and view one-star reviews seperately from higher rated reviews.
 ### Acceptance Criteria:
-2.	As a reviewer I want the process of editing and deleting reviews to be 
+2.	As a reviewer I want the process of editing and deleting reviews to be a
 ### Acceptance Criteria:
