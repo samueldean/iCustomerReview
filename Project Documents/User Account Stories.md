@@ -15,3 +15,8 @@
 ### Acceptance Criteria:
 2.	As a online shopper I want to see related products with reviews, so that I can make a better decision when purchasing a product.
 ### Acceptance Criteria:
+# Samuel’s UAS:
+1.	As a customer who is wary of online shopping, I want to be able to sort and view one-star reviews seperately from higher rated reviews.
+### Acceptance Criteria:
+2.	As a reviewer I want the process of editing and deleting reviews to be 
+### Acceptance Criteria:
